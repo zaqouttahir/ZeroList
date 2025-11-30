@@ -3,10 +3,12 @@
 
 #### Tech Stack
 - React native (Expo)
+- Supabase
 - Tailwind (nativewind)
 
 #### Install
 - git clone ${repo}
 - cd ZeroList
 - npm install
+- copy .env.example to .env & set variables
 - npx expo start
